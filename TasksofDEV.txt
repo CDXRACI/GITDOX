@@ -1,0 +1,33 @@
+thus (adv) do đó
+therefore (adv ) vì thế
+
+
+GPIO  ( LED, BUTTON )
+INTERRUPT ( BUTTON, 2 BUTTONS )
+TIMER ( ----- ())
+COUNTER ( ---- ())
+ADC ( ------())
+DAC ( ------())
+
+UASRT ( )
+USB ( )
+I2C ( )
+I2S ( )
+ONE WIRE ( )
+SPI ( )
+CAN ( )
+MODBUS ( )
+
+------------
+DMA ( )
+FOTA ( )
+OTA ( )
+BOOTLOADER ( )
+
+---------------------
+SAMPLE ( )
+-----------
+-> HDMI
+-> DEVELOP BOARD.
+...........................
+2 MONTHS ( OR 3 MONTHS )
